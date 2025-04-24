@@ -1,5 +1,5 @@
 # real_estate_price_prediction
-Progetto modulo 3 del master AI Engineering di Profession AI
+Progetto modulo: Fondamenti di Machine Learning, del master AI Engineering di Profession AI
 
 ## Un modello di previsione per il mercato immobiliare
 RealEstateAI Solutions si propone di ottimizzare la valutazione dei prezzi immobiliari attraverso l'uso di tecniche avanzate di regolarizzazione in modelli di regressione lineare. L'obiettivo è fornire previsioni di prezzo più accurate e affidabili, riducendo il rischio di overfitting e migliorando la capacità di generalizzazione del modello.
